@@ -64,7 +64,7 @@ body>main>div>img{
 }
 footer{
     display: block; 
-    border-radius: 10px 10px 0px  ;   
+    border-radius: 10px 10px 0px 0px ;   
     background-color: #083D77;
     color: white;
     border-top: 1px solid #F2EDED;
