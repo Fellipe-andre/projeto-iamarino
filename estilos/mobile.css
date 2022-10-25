@@ -18,9 +18,10 @@ img#logo{
 }
 #burger{
     display: block;
+    margin-left: auto;
     width: 25px;
     padding: 10px;
-    text-align: left;
+    text-align: right;
     background-color: #083D77;
     color: white;
     border-top: 1px solid #F2EDED;
