@@ -99,3 +99,18 @@ p#hora{
     text-align: center;
     font-weight: bolder;
 }
+main> div { 
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main > div > p{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
